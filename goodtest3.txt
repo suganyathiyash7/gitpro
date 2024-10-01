@@ -1,0 +1,1 @@
+This is goodtest3.txt file
